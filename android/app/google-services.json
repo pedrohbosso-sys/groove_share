@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507555245558",
+    "project_id": "grooveshare-pedrobosso",
+    "storage_bucket": "grooveshare-pedrobosso.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507555245558:android:99c7d082f633ea09d46bd7",
+        "android_client_info": {
+          "package_name": "com.example.groove_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507555245558-l4ecavmq896t95s6ru2mg3n17m5la4bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgsrVTUs_3_IhOKYDHz2KgmN0VKPODEKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507555245558-l4ecavmq896t95s6ru2mg3n17m5la4bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
